@@ -1,0 +1,15 @@
+{
+  "proxy": "http://localhost:3001",
+  "customers": [
+    {
+      "id": "e472",
+      "name": "Priyanshu",
+      "email": "priyanshu@gmail.com"
+    },
+    {
+      "id": "15a5",
+      "name": "priyanshu sahu",
+      "email": "priyanshusahu26dec@gmail.com"
+    }
+  ]
+}
